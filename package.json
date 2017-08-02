@@ -1,0 +1,25 @@
+{
+  "name": "org.apache.cordova.core.ParsePlugin",
+  "version": "1.0.0",
+  "description": "Parse Plugin",
+  "cordova": {
+    "id": "org.apache.cordova.core.ParsePlugin",
+    "platforms": [
+      "android",
+      "windows",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malavasi/parse-push-plugin"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "The Future House",
+  "license": "MIT"
+}    
